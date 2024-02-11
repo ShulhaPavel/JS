@@ -5,9 +5,9 @@ var services = {
   };
   
   // Додаємо нову послугу
-  services['Розбити скло'] = "200 грн";
-  services['Cупер стрижка'] = "1777 грн";
-  services['Кава'] = "20 грн";
+  services["Розбити скло"] = "200 грн";
+  services["Cупер стрижка"] = "1777 грн";
+  services["Кава"] = "20 грн";
   
   services.price = function() {
     let totalPrice = 0;
