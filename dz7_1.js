@@ -1,0 +1,1 @@
+console.log(/[aAo{6}]/.test("The we1ther is sooooo nice tod1y"));
